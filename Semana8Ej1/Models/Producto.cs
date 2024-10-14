@@ -8,6 +8,7 @@ namespace Semana8Ej1.Models
 {
     public struct Producto
     {
+        // struct Producto
         public int ID { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
